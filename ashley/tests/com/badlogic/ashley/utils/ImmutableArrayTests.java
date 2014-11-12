@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.badlogic.gdx.utils.Array;
-import com.badlogic.gdx.utils.GdxRuntimeException;
+import com.badlogic.ashley.utils.Array;
+import com.badlogic.ashley.utils.GdxRuntimeException;
 
 public class ImmutableArrayTests {
 

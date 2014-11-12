@@ -16,8 +16,8 @@
 
 package com.badlogic.ashley.core;
 
-import com.badlogic.gdx.utils.Bits;
-import com.badlogic.gdx.utils.ObjectMap;
+import com.badlogic.ashley.utils.Bits;
+import com.badlogic.ashley.utils.ObjectMap;
 
 
 /**

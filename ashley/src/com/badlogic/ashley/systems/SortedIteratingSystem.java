@@ -22,7 +22,7 @@ import com.badlogic.ashley.core.EntityListener;
 import com.badlogic.ashley.core.EntitySystem;
 import com.badlogic.ashley.core.Family;
 import com.badlogic.ashley.utils.ImmutableArray;
-import com.badlogic.gdx.utils.Array;
+import com.badlogic.ashley.utils.Array;
 import java.util.Comparator;
 
 /**

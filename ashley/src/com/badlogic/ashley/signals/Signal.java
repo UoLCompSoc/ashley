@@ -16,7 +16,7 @@
 
 package com.badlogic.ashley.signals;
 
-import com.badlogic.gdx.utils.SnapshotArray;
+import com.badlogic.ashley.utils.SnapshotArray;
 
 
 /**

@@ -20,8 +20,8 @@ import com.badlogic.ashley.core.Engine.ComponentOperationHandler;
 import com.badlogic.ashley.signals.Signal;
 import com.badlogic.ashley.utils.Bag;
 import com.badlogic.ashley.utils.ImmutableArray;
-import com.badlogic.gdx.utils.Array;
-import com.badlogic.gdx.utils.Bits;
+import com.badlogic.ashley.utils.Array;
+import com.badlogic.ashley.utils.Bits;
 
 /**
  * Simple containers of {@link Component}s that give them "data". The component's data

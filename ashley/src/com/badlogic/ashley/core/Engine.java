@@ -21,11 +21,11 @@ import java.util.Comparator;
 import com.badlogic.ashley.signals.Listener;
 import com.badlogic.ashley.signals.Signal;
 import com.badlogic.ashley.utils.ImmutableArray;
-import com.badlogic.gdx.utils.Array;
-import com.badlogic.gdx.utils.ObjectMap;
-import com.badlogic.gdx.utils.ObjectMap.Entry;
-import com.badlogic.gdx.utils.Pool;
-import com.badlogic.gdx.utils.SnapshotArray;
+import com.badlogic.ashley.utils.Array;
+import com.badlogic.ashley.utils.ObjectMap;
+import com.badlogic.ashley.utils.ObjectMap.Entry;
+import com.badlogic.ashley.utils.Pool;
+import com.badlogic.ashley.utils.SnapshotArray;
 
 /**
  * The heart of the Entity framework. It is responsible for keeping track of {@link Entity} and

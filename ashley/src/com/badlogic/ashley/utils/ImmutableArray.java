@@ -18,8 +18,8 @@ package com.badlogic.ashley.utils;
 
 import java.util.Iterator;
 
-import com.badlogic.gdx.utils.Array;
-import com.badlogic.gdx.utils.Array.ArrayIterable;
+import com.badlogic.ashley.utils.Array;
+import com.badlogic.ashley.utils.Array.ArrayIterable;
 
 
 /**
